@@ -3,5 +3,5 @@
   "title":"اطلاعیه مهم",  
   "description":"جهت استفاده از برنامه  و افزایش سرعت سرور ها لطفا عضو کانال تلگرام ما شوید ♥️",  
   "download":"tg://resolve?domain=Vpn_Click",  
-  "buttonno":"no"  
+  "buttonno":"yes"  
 }
